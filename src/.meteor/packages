@@ -7,6 +7,8 @@ meteor-platform
 insecure
 iron:router
 aldeed:collection2
+aldeed:autoform
+aldeed:delete-button
 dburles:collection-helpers
 alanning:roles
 particle4dev:sass
