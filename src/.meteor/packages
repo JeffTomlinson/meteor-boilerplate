@@ -12,6 +12,6 @@ aldeed:delete-button
 dburles:collection-helpers
 alanning:roles
 particle4dev:sass
-underscore
+erasaur:meteor-lodash
 jquery
 accounts-base
